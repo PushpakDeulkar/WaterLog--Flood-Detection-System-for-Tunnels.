@@ -1,3 +1,5 @@
+#Here instead of geting alarm on the saperate device we are integrating it with an dashboard using Blynk software.
+
 #include <WiFi.h>
 #include <esp_now.h>
 #include "BlynkSimpleEsp32.h"
